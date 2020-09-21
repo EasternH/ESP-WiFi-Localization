@@ -1,0 +1,1 @@
+export MDF_PATH="F:/ESP32/msys32/home/pc/esp/esp-mdf"

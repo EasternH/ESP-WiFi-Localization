@@ -1,0 +1,49 @@
+%NAME%
+mingw-w64-i686-python2-requests
+
+%VERSION%
+2.19.1-3
+
+%BASE%
+mingw-w64-python-requests
+
+%DESC%
+Requests is the only Non-GMO HTTP library for Python, safe for human consumption. (mingw-w64)
+
+%URL%
+http://python-requests.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1536083131
+
+%INSTALLDATE%
+1538352479
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+576512
+
+%REASON%
+1
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-i686-python2-urllib3
+mingw-w64-i686-python2-chardet
+mingw-w64-i686-python2-idna
+
+%OPTDEPENDS%
+mingw-w64-i686-python2-ndg-httpsclient: HTTPS requests with SNI support
+mingw-w64-i686-python2-grequests: asynchronous requests with gevent
+mingw-w64-i686-python2-pysocks: SOCKS proxy support
+

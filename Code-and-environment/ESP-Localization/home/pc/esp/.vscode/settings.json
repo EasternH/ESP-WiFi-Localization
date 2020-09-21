@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "c",
+        "*.ipp": "c",
+        "array": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "chrono": "c",
+        "cstdlib": "c"
+    }
+}

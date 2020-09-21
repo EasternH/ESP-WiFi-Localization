@@ -1,0 +1,1 @@
+export IDF_PATH="F:/ESP32/msys32/home/pc/esp/esp-idf"

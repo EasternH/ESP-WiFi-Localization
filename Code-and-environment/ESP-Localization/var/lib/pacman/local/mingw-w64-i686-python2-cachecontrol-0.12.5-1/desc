@@ -1,0 +1,47 @@
+%NAME%
+mingw-w64-i686-python2-cachecontrol
+
+%VERSION%
+0.12.5-1
+
+%BASE%
+mingw-w64-python-cachecontrol
+
+%DESC%
+httplib2 caching for requests (mingw-w64)
+
+%URL%
+https://github.com/ionrock/cachecontrol
+
+%ARCH%
+any
+
+%BUILDDATE%
+1536491716
+
+%INSTALLDATE%
+1538352479
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+145408
+
+%REASON%
+1
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mingw-w64-i686-python2
+mingw-w64-i686-python2-msgpack
+mingw-w64-i686-python2-requests
+
+%OPTDEPENDS%
+mingw-w64-i686-python2-lockfile: for the FileCache
+

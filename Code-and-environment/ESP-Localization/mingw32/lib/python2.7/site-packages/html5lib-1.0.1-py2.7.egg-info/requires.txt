@@ -1,0 +1,22 @@
+six>=1.9
+webencodings
+
+[all]
+genshi
+chardet>=2.2
+
+[all:platform_python_implementation == 'CPython']
+datrie
+lxml
+
+[chardet]
+chardet>=2.2
+
+[datrie:platform_python_implementation == 'CPython']
+datrie
+
+[genshi]
+genshi
+
+[lxml:platform_python_implementation == 'CPython']
+lxml

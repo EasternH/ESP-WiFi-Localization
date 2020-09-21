@@ -1,0 +1,13 @@
+%FILES%
+mingw32/
+mingw32/lib/
+mingw32/lib/python2.7/
+mingw32/lib/python2.7/site-packages/
+mingw32/lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/
+mingw32/lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/PKG-INFO
+mingw32/lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/SOURCES.txt
+mingw32/lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/dependency_links.txt
+mingw32/lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/top_level.txt
+mingw32/lib/python2.7/site-packages/ipaddress.py
+mingw32/lib/python2.7/site-packages/ipaddress.pyc
+
