@@ -7,3 +7,11 @@
 * Picture中是我用手机记录的东西。
 * Report就是我的最后一些结果之类的。
 
+***
+> This project is based on ESP32 WiFi-RSSI indoor positioning. This is the course design of a CS222 course I took at Shanghai University of Science and Technology. The original idea was that after reading this article by RADAR, I had this idea. I used ESP32 before, and the hardware in it has the function of measuring RSSI parameters. So I modified it. It is quite troublesome to do this. I thought that collecting a lot of data was recorded with a mobile phone a little bit (in fact, I don’t know how to write the receiving code on the mobile phone..)
+
+* The version of ESP-IDF is about 2.0, and ESP-MDF is also used.
+* Instructions for use are in Code-and-environment.
+* In Paper are some papers that have been read, mainly RADAR.
+* Picture is what I recorded with my mobile phone.
+* Report is my final results and so on.
